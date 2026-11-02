@@ -18,4 +18,4 @@ This is because the first use case I want to test is an IP rate limiter where ke
 
 ## Warning
 
-This is a learning project, not meant for use in critical systems. 
+This is a learning project, not meant for use in production. 
